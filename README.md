@@ -4,6 +4,8 @@ This extension pack is a pack for vue projects using volar extension.
 
 ## Extensions added
 
+- [Vue Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax
 
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that auto completes filenames
