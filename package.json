@@ -32,6 +32,7 @@
         "wscats.vue",
         "sdras.vue-vscode-snippets",
         "dbaeumer.vscode-eslint",
-        "Vue.volar"
+        "Vue.volar",
+        "Vue.vscode-typescript-vue-plugin"
     ]
 }

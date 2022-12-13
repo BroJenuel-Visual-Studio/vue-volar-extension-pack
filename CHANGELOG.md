@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.1.6]
+Added Type Script Volar Support
+Name: TypeScript Vue Plugin (Volar)
+Id: Vue.vscode-typescript-vue-plugin
+Description: Vue Plugin for TypeScript server
+Version: 1.0.12
+Publisher: Vue
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin
+
 ## [1.1.5]
 added Volar as Volar changed the extention ID
 
