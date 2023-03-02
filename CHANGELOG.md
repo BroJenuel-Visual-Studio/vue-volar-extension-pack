@@ -1,6 +1,6 @@
 # Change Log
 
-## [1.1.7]
+## [1.1.8]
 ### Removed some not important extensions
 Here are the new list:
 - [Vue Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
