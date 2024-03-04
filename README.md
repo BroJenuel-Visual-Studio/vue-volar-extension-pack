@@ -4,7 +4,7 @@ This extension pack is a pack for vue projects using volar extension.
 
 ## Extensions added
 
-- [Vue Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- [Vue Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that auto completes filenames
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag
