@@ -2,7 +2,7 @@
     "name": "vue-volar-extention-pack",
     "displayName": "Vue Extension Box",
     "description": "This extension packs uses the latest vue extension that really works well with different vue projects.",
-    "version": "2.0.1",
+    "version": "2.0.7",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -27,7 +27,6 @@
         "sibiraj-s.vscode-scss-formatter",
         "esbenp.prettier-vscode",
         "dbaeumer.vscode-eslint",
-        "Vue.volar",
-        "Vue.vscode-typescript-vue-plugin"
+        "Vue.volar"
     ]
 }
