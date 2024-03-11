@@ -1,5 +1,9 @@
 # Change Log
 
+## [2.0.7]
+### Removed Deprecated Extensions
+- [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) - This is removed because it is deprecated, and TypeScript is supported by the new Vue Extension but Eslint extension.
+
 ## [1.1.8]
 ### Removed some not important extensions
 Here are the new list:
