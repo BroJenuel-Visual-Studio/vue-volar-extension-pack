@@ -2,7 +2,7 @@
     "name": "vue-volar-extention-pack",
     "displayName": "Vue Extension Box",
     "description": "This extension packs uses the latest vue extension that really works well with different vue projects.",
-    "version": "2.0.7",
+    "version": "2.0.8",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
